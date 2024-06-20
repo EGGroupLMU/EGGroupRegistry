@@ -1,0 +1,6 @@
+name = "EGGroupRegistry"
+uuid = "d66e2874-79d7-4554-88ed-a19986df6a76"
+repo = "https://github.com/EGGroupLMU/EGGroupRegistry"
+description = "Julia registry of the LMU Economic Geography Group"
+
+[packages]
